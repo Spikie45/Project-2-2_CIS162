@@ -160,10 +160,6 @@ ol li{
     font-size: larger;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
-ul.about{
-    font-size: 20px;
-    color: #BDB76B; ;
-}
 .ulpic{
     max-width: 200px;
     max-height: 200px;
@@ -180,7 +176,7 @@ footer{
     font-weight: bold;
 }
 header h1{
-    display: blockl;
+    display: block;
     margin: 0;
     padding: 0;
     gap: 0;
